@@ -31,7 +31,7 @@ git clone https://github.com/2ai-lab/PATL.git
 After installation, you can use the notebook file to preprocess data, train models, and evaluate performance:
 
 ## Model Training
-The training process involves using the DAgger algorithm to iteratively refine the model. The configuration file `config.yaml` allows you to specify hyperparameters and other settings.
+The training process involves using the DAgger algorithm to iteratively refine the model.
 
 ## Evaluation
 Model evaluation is performed on a separate test set. Metrics such as accuracy, precision, recall, and F1-score are computed to assess performance.
