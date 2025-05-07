@@ -21,11 +21,10 @@ The datasets used in this project include:
 2. **CT Scan images** from the [UCSD-AI4H COVID-CT Dataset](https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split).
 
 ## Installation
-To get started, clone the repository and install the necessary dependencies:
+To get started, clone the repository:
 
 ```bash
 git clone https://github.com/2ai-lab/PATL.git
-pip install -r requirements.txt
 ```
 
 ## Usage
