@@ -18,7 +18,7 @@ This project explores the use of imitation learning, specifically the DAgger alg
 ## Dataset
 The datasets used in this project include:
 1. **Chest X-ray images** from the [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database).
-2. **CT Scan images** from the [UCSD-AI4H COVID-CT Dataset](https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split).
+2. **CT Scan images** from the [UCSD-AI4H COVID-CT Dataset](https://www.kaggle.com/datasets/hgunraj/covidxct).
 
 ## Installation
 To get started, clone the repository:
